@@ -17,7 +17,7 @@ PDF Merger is a Python script that allows users to merge multiple PDF files into
 
 run the following command to install required modules:-
 ```bash
-pip install tkinter PyPDF2
+pip install tk PyPDF2
 ```
 
 ## Installation
